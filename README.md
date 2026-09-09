@@ -56,11 +56,11 @@ This account continues the learning journey from a previous Microsoft 365 Develo
 
 🔗 **Previous GitHub Profile**
 
-➡️ [uc-rojeanthub.com/uc-rojean
+➡️ https://github.com/uc-rojean
 
 📁 **Final Repository from the Previous Sandbox**
 
-➡️ [m365-dev-activities-89d-2026-08](https://github.com/uc-rojean/m365-dev-activities-89ds the final documented chapter of the previous sandbox before migration and transition to a new environment.
+➡️ https://github.com/uc-rojean/m365-dev-activities-89d-2026-08 the final documented chapter of the previous sandbox before migration and transition to a new environment.
 
 ---
 
