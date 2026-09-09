@@ -1,35 +1,81 @@
-# Welcome
+# 👋 Welcome to My GitHub Profile
 
-Hello and welcome to my GitHub profile.
+Hello and thank you for visiting! 😊
 
-This account continues my previous GitHub learning journey from my former account.
+This account continues my GitHub learning journey from my previous account.
 
-## About Me
+---
+
+## 🌟 About Me
 
 I am not a software developer, engineer, or IT professional.
 
-I am a continuous learner exploring:
+I am simply a curious learner who enjoys exploring technology and building new skills every day. 🚀
 
-- Microsoft 365 Developer Sandbox
-- GitHub
-- SharePoint
-- OneDrive
-- Power Platform
-- Microsoft Copilot
+### 🎯 Currently Exploring
 
-## Previous GitHub Account
+- ☁️ Microsoft 365 Developer Sandbox
+- 🐙 GitHub
+- 📂 SharePoint
+- ☁️ OneDrive
+- ⚡ Power Platform
+- 🤖 Microsoft Copilot
+- 🔗 Microsoft Graph
+
+---
+
+## 📜 Previous GitHub Account
 
 This profile continues the learning activities previously maintained in my former GitHub account.
 
-## Current Goal
+🔗 Previous Account:
+**uc-rojean**
+
+---
+
+## 🎯 Current Goal
 
 Continue daily development activities and learning projects to support ongoing Microsoft 365 Developer Sandbox usage.
 
-## Learning Journal
+✅ Learn something new every day
+
+✅ Document learning activities
+
+✅ Maintain active GitHub contributions
+
+✅ Build personal knowledge repositories
+
+---
+
+## 📚 Learning Journal
 
 Every day I try to learn something new and document my journey.
 
-Thank you for visiting my profile.
+### 🌱 My Learning Philosophy
+
+> Every expert was once a beginner.
+
+> Small daily progress is still progress.
+
+---
+
+## 🛠️ Areas of Interest
+
+- 🤖 Automation
+- 📊 Data & Reporting
+- 🔐 Microsoft Security
+- 🌐 Microsoft 365
+- 📝 Documentation
+- 🚀 Continuous Learning
+
+---
+
+## 🙌 Thank You
+
+Thank you for stopping by.
+
+Happy Learning! 🚀✨
+
 
 ---
 
