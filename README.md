@@ -50,17 +50,41 @@ Examples of ongoing activities:
 
 ---
 
-## 📜 Previous Learning Journey
+## 📜 Previous GitHub Account
 
-This profile continues activities previously documented in:
+This profile continues the learning activities, documentation, and Microsoft 365 Developer Sandbox journey previously maintained in my former account.
 
-🔗 Previous GitHub Account
+### 🔗 Previous GitHub Profile
 
-**uc-rojean**
+[ucps://github.com/uc-rojean
 
-Repository Archive Example:
+### 📁 Final Repository from the Previous Sandbox
 
-📁 m365-dev-activities-89d-2026-08
+[m365-dev-activities-89d-2026-08](https://github.com/uc-rojean/m365-dev-activities-89d-2026-08inal documented chapter of the previous Microsoft 365 Developer Sandbox environment before migration activities and transition planning.
+
+---
+
+## 🏢 Account Separation Strategy
+
+### 💼 Commercial Tenant
+
+Focused on:
+
+- Business operations
+- Customer-facing services
+- Production workloads
+- Long-term business growth
+
+### 🧪 Developer Sandbox
+
+Focused on:
+
+- Learning activities
+- Technical exploration
+- Documentation
+- GitHub contributions
+- Sandbox experiments
+- Continuous renewal activities
 
 ---
 
@@ -68,7 +92,9 @@ Repository Archive Example:
 
 To maintain a consistent learning habit while exploring Microsoft technologies and continuously improving technical skills.
 
-> 🌱 Small daily improvements create long-term growth.
+> 🌱 Every expert was once a beginner.
+
+> 🚀 Small daily progress is still progress.
 
 ---
 
@@ -78,14 +104,33 @@ To maintain a consistent learning habit while exploring Microsoft technologies a
 
 ✅ GitHub Documentation
 
-✅ Copilot Exploration
-
 ✅ SharePoint Learning
 
-✅ Continuous Sandbox Renewal Activities
+✅ Microsoft Copilot Exploration
+
+✅ Daily Learning Activities
+
+✅ Continuous Sandbox Renewal
 
 ---
 
-### 🙌 Thank You For Visiting
+## 🛠️ Areas of Interest
+
+- 🤖 Automation
+- 📊 Reporting & Analytics
+- 🔐 Microsoft Security
+- 🌐 Microsoft 365 Ecosystem
+- 📝 Documentation
+- 🚀 Continuous Learning
+
+---
+
+## 🙌 Thank You For Visiting
+
+Thank you for stopping by and following this learning journey.
+
+This account serves as a dedicated space for documenting daily activities, experiments, and lessons learned while maintaining an active Microsoft 365 Developer Sandbox environment.
 
 Happy Learning! 🚀✨
+
+---
