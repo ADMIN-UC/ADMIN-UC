@@ -32,3 +32,11 @@ Every day I try to learn something new and document my journey.
 Thank you for visiting my profile.
 
 ---
+
+## Previous Account
+
+Historical learning activities were maintained in:
+
+https://github.com/uc-rojean
+
+---
