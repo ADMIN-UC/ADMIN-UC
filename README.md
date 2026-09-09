@@ -1,88 +1,91 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Welcome to ADMIN-UC
 
-Hello and thank you for visiting! 😊
+🚀 Microsoft 365 Developer Sandbox Learning Lab
 
-This account continues my GitHub learning journey from my previous account.
+This GitHub account is dedicated to documenting daily learning activities, sandbox experiments, and continuous technology exploration.
 
 ---
 
-## 🌟 About Me
+## 🌟 About This Account
 
-I am not a software developer, engineer, or IT professional.
+This account continues the learning journey previously maintained in another GitHub profile.
 
-I am simply a curious learner who enjoys exploring technology and building new skills every day. 🚀
+The primary purpose of this account is to:
 
-### 🎯 Currently Exploring
+✅ Maintain active Microsoft 365 Developer Sandbox activities
 
-- ☁️ Microsoft 365 Developer Sandbox
-- 🐙 GitHub
-- 📂 SharePoint
-- ☁️ OneDrive
-- ⚡ Power Platform
+✅ Document daily learning and development exercises
+
+✅ Explore Microsoft cloud technologies
+
+✅ Create and maintain learning repositories
+
+✅ Build long-term technical knowledge
+
+---
+
+## 🧪 Areas of Exploration
+
+- ☁️ Microsoft 365
 - 🤖 Microsoft Copilot
 - 🔗 Microsoft Graph
+- 📂 SharePoint Online
+- ☁️ OneDrive
+- ⚡ Power Platform
+- 🔐 Microsoft Security
+- 🐙 GitHub
 
 ---
 
-## 📜 Previous GitHub Account
+## 📚 Daily Learning Activities
 
-This profile continues the learning activities previously maintained in my former GitHub account.
+Examples of ongoing activities:
 
-🔗 Previous Account:
+- 📝 Learning journals
+- 📖 Technical documentation
+- 🛠 Sandbox configurations
+- ⚙️ Automation experiments
+- 🔄 Repository maintenance
+- 🚀 GitHub commits and updates
+
+---
+
+## 📜 Previous Learning Journey
+
+This profile continues activities previously documented in:
+
+🔗 Previous GitHub Account
+
 **uc-rojean**
 
----
+Repository Archive Example:
 
-## 🎯 Current Goal
-
-Continue daily development activities and learning projects to support ongoing Microsoft 365 Developer Sandbox usage.
-
-✅ Learn something new every day
-
-✅ Document learning activities
-
-✅ Maintain active GitHub contributions
-
-✅ Build personal knowledge repositories
+📁 m365-dev-activities-89d-2026-08
 
 ---
 
-## 📚 Learning Journal
+## 🎯 Mission
 
-Every day I try to learn something new and document my journey.
+To maintain a consistent learning habit while exploring Microsoft technologies and continuously improving technical skills.
 
-### 🌱 My Learning Philosophy
-
-> Every expert was once a beginner.
-
-> Small daily progress is still progress.
+> 🌱 Small daily improvements create long-term growth.
 
 ---
 
-## 🛠️ Areas of Interest
+## 📅 Current Focus
 
-- 🤖 Automation
-- 📊 Data & Reporting
-- 🔐 Microsoft Security
-- 🌐 Microsoft 365
-- 📝 Documentation
-- 🚀 Continuous Learning
+✅ Microsoft 365 Developer Sandbox
+
+✅ GitHub Documentation
+
+✅ Copilot Exploration
+
+✅ SharePoint Learning
+
+✅ Continuous Sandbox Renewal Activities
 
 ---
 
-## 🙌 Thank You
-
-Thank you for stopping by.
+### 🙌 Thank You For Visiting
 
 Happy Learning! 🚀✨
-
-
----
-
-## Previous Account
-
-Historical learning activities were maintained in:
-
-https://github.com/uc-rojean
-
----
