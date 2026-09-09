@@ -52,15 +52,15 @@ Examples of ongoing activities:
 
 ## 📜 Previous GitHub Account
 
-This profile continues the learning activities, documentation, and Microsoft 365 Developer Sandbox journey previously maintained in my former account.
+This account continues the learning journey from a previous Microsoft 365 Developer Sandbox environment.
 
-### 🔗 Previous GitHub Profile
+🔗 **Previous GitHub Profile**
 
-[ucps://github.com/uc-rojean
+➡️ [uc-rojeanthub.com/uc-rojean
 
-### 📁 Final Repository from the Previous Sandbox
+📁 **Final Repository from the Previous Sandbox**
 
-[m365-dev-activities-89d-2026-08](https://github.com/uc-rojean/m365-dev-activities-89d-2026-08inal documented chapter of the previous Microsoft 365 Developer Sandbox environment before migration activities and transition planning.
+➡️ [m365-dev-activities-89d-2026-08](https://github.com/uc-rojean/m365-dev-activities-89ds the final documented chapter of the previous sandbox before migration and transition to a new environment.
 
 ---
 
